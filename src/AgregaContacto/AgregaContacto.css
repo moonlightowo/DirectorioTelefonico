@@ -1,0 +1,17 @@
+.btn-nuevoC
+{
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 5px 5px;
+    border: none;
+    color: white;
+    background: rgb(0, 97, 0);
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+.btn-nuevoC:hover
+{
+    background: rgba(0, 97, 0, 0.9);
+}

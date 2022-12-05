@@ -1,0 +1,14 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+input
+{
+    background-color: rgb(173, 173, 173);
+    height: 23px;
+    border-radius: 3px;
+    margin-top: 20px;
+}
